@@ -1,0 +1,14 @@
+{
+  "*.json": {
+    "trailingComma": "none"
+  },
+  "*.md": {
+    "trailingComma": "none"
+  },
+  "*.yaml": {
+    "trailingComma": "none"
+  },
+  "*.yml": {
+    "trailingComma": "none"
+  }
+}
